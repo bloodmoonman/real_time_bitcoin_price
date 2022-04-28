@@ -14,7 +14,7 @@ headers = {
     'X-CMC_PRO_API_KEY': '7d94dcdb-016c-453f-8a76-82c0d7805973' 
     }
 
-#add these headers to sessions
+
 #every single request we make now will use these headers 
 
 session = Session()
